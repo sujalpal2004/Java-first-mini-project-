@@ -1,1 +1,1 @@
-# Java-first-mini-project-
+# Java-mini-projects
